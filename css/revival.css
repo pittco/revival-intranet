@@ -1,0 +1,24 @@
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.half {
+  width: 50%;
+}
+
+.social {
+  font-size: 200%;
+}
+
+section {
+  min-height: 98%; /* hack */
+}
+
+.intro {
+  font-size: 650%;
+  text-shadow: 1px 1px 2px black,
+    0 0 1em #63E1F9,
+    0 0 0.2em #63E1F9;
+}
