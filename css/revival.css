@@ -14,6 +14,7 @@
 
 section {
   min-height: 98%; /* hack */
+  padding-top: 25px;
 }
 
 .intro {
@@ -21,4 +22,19 @@ section {
   text-shadow: 1px 1px 2px black,
     0 0 1em #63E1F9,
     0 0 0.2em #63E1F9;
+}
+
+.no-transform {
+  text-transform: none;
+}
+
+.intro-to-irc {
+  padding-top: 75px;
+}
+
+code {
+  text-transform: none;
+  color: #00FF00;
+  font-family: monospace;
+  background-color: #151515;
 }
